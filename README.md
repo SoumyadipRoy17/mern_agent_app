@@ -12,3 +12,4 @@ This is a basic MERN stack application with the following features:
 2. Navigate to the `backend` directory and run `npm install`.
 3. Navigate to the `frontend` directory and run `npm install`.
 4. Create a `.env` file in the `backend` directory with the following variables: MONGO_URI , JWT_SECRET,PORT
+   
